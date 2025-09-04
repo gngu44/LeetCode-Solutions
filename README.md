@@ -1,4 +1,4 @@
-# 💥 LeetCode & Codewars Solutions
+# 💥 LeetCode Solutions
 
 Welcome to my repository where I solve **LeetCode** challenges. I am currently  using **Python** 🐍 and **Java** ☕️. This repository is a collection of algorithms and data structure problems aimed at improving coding skills, enhancing problem-solving abilities, and sharpening my grasp of data structures and algorithms.
 
@@ -30,3 +30,4 @@ Java is an object oriented programming language focusing on scalability, modular
 - [ ] Add JavaScript
 - [ ] Add C/C++
 - [ ] Add a counter (push action?) to update the number of problems solved in the readme
+
